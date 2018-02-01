@@ -1,0 +1,3 @@
+COMPONENT=SenseApp2C
+
+include $(MAKERULES)
